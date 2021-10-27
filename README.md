@@ -1,2 +1,2 @@
-# Project-ZTE-Back-Ofiice-MINTIC
+# Project-ZTE-Back-Office-MINTIC
 Operación MINTIC
